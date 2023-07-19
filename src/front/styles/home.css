@@ -5,3 +5,46 @@
     one more css for each page that will contain the selected used 
     on that page only (the ones not reused in other pages).
 */
+
+.navbar{
+    display: flex;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+.img_home{
+    margin: 50px;
+    height: 300px;
+}
+.alert-info{
+    margin: 50px;
+}
+button{
+    margin:10px;
+    border-radius: 10px;
+    background-color: rgb(172, 231, 212);
+    border: none;
+    margin-bottom: 150px;
+}
+img{
+    height: 300px;
+}
+footer{
+    color: grey;
+}
+.container{
+    margin-bottom: 10px;
+    padding-top: 20px;
+    font-style: italic;
+}
+.img_navbar{
+    height: 80px;
+    width: 120px;
+    border:none;
+    margin-left: 30px;
+}
+
+
+
